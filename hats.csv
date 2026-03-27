@@ -1,0 +1,21 @@
+id,product,category,price,stock_level,status
+1,Fedora,Classic,25.0,10,in stock
+2,Beanie,Winter,15.0,50,in stock
+3,Sun Hat,Summer,20.0,5,low stock
+4,Baseball Cap,Sport,18.0,0,out of stock
+5,Beret,Classic,22.0,12,in stock
+6,Cowboy Hat,Western,45.0,2,low stock
+7,Bucket Hat,Streetwear,19.0,25,in stock
+8,Top Hat,Formal,60.0,1,low stock
+9,Trilby,Classic,28.0,0,out of stock
+10,Panama Hat,Summer,35.0,15,in stock
+11,Flat Cap,Classic,24.0,30,in stock
+12,Visor,Sport,12.0,8,in stock
+13,Sombrero,Traditional,30.0,3,low stock
+14,Trapper Hat,Winter,35.0,0,out of stock
+15,Pork Pie Hat,Classic,27.0,10,in stock
+16,Boater,Summer,32.0,4,low stock
+17,Cloche,Classic,26.0,0,out of stock
+18,Bowler,Formal,40.0,6,in stock
+19,Newsboy Cap,Classic,23.0,20,in stock
+20,Ushanka,Winter,40.0,12,in stock
